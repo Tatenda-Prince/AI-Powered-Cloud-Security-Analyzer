@@ -292,8 +292,17 @@ Security Hub
 Check your email for the SNS alert.
 
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Cloud-Security-Analyzer/blob/7cce1292b7e4341960627b1ddcee3253c050b5bb/img/Screenshot%202025-02-12%20153324.png)
 
+
+## Congratulations
+
+We have successfully created a "AI Cloud Security Analyzer" This project helped us understand AWS security services like GuardDuty, Security Hub, and SNS for real-time threat detection and response. We leveraged Amazon Comprehend for AI-powered log analysis and used AWS Lambda to automate security event processing. The serverless architecture ensured scalability and cost efficiency while reducing manual security monitoring efforts.
+
+
+## Future Enhancements
+
+To improve the system, we can integrate AWS Config for compliance monitoring, implement auto-remediation actions (e.g., blocking malicious IPs), and use Amazon OpenSearch for advanced security analytics
 
 
 
