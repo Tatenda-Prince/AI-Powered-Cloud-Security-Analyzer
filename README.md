@@ -268,6 +268,8 @@ json
 ```
 Click Test to run the function.
 
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Cloud-Security-Analyzer/blob/19e4b4d27aa1313d38b6ded6352b991510cf6b30/img/Screenshot%202025-02-12%20153116.png)
+
 6.2.Check the Output:
 
 Go to the `CloudWatch Logs` for the Lambda function to see the execution logs.
