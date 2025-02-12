@@ -68,17 +68,17 @@ Search for "Security Hub" in the AWS Management Console.
 
 Click on Enable AWS Security Hub.
 
-Choose the default region (or the region where your resources are located).
+2.3Choose the default region (or the region where your resources are located).
 
 Enable Security Standards:
 
-2.3.In the Security Hub dashboard, go to Security Standards.
+2.4.In the Security Hub dashboard, go to Security Standards.
 
 Enable AWS Foundational Security Best Practices.
 
 Link GuardDuty to Security Hub:
 
-Security Hub will automatically ingest findings from GuardDuty. You can view these findings in the Findings tab.
+2.5.Security Hub will automatically ingest findings from GuardDuty. You can view these findings in the Findings tab.
 
 ![image_alt]()
 
