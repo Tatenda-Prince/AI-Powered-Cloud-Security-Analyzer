@@ -95,7 +95,7 @@ Upload a sample log file (e.g., CloudTrail logs) to an S3 bucket.
 
 Example: Create a bucket named `tatenda-security-logs-bucket `and upload a `.txt ` file with sample log data.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Cloud-Security-Analyzer/blob/5f0d8017d935ca535e6193023051b4190411333d/img/Screenshot%202025-02-12%20145303.png)
 
 
 3.3.Create a Comprehend Analysis Job:
