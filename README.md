@@ -250,6 +250,46 @@ Copy the ARN of the SNS topic (e.g., `arn:aws:sns:us-east-1:123456789012:Securit
 Update the TopicArn in the Lambda function with this value.
 
 
+## Step 6: Test the Workflow
+
+6.1.Trigger the Lambda Function:
+
+Go to the Lambda function and click Test.
+
+Create a new test event with the following JSON:
+
+```language
+json
+
+{
+  "key1": "value1",
+  "key2": "value2"
+}
+```
+Click Test to run the function.
+
+6.2.Check the Output:
+
+Go to the `CloudWatch Logs` for the Lambda function to see the execution logs.
+
+Verify that the function fetches findings from GuardDuty and Security Hub.
+
+![image_alt]()
+
+
+Check your email for the SNS alert.
+
+
+![image_alt]()
+
+
+
+
+
+
+
+
+
 
 
 
