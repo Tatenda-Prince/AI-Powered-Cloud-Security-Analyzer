@@ -110,15 +110,13 @@ Configure the job to detect `Entities and Key Phrases`.
 
 Save the results in another S3 bucket (e.g., `tatenda-comprehend-results-bucket`).
 
-![image_alt]()
-
 3.4.Run the Job:
 
 Start the analysis job and wait for it to complete.
 
 Once done, check the results in the `tatenda-comprehend-results-bucket`.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Cloud-Security-Analyzer/blob/6bdf46d7416190a2e105c9e811f022814c9ab21a/img/Screenshot%202025-02-12%20151150.png)
 
 
 ## Step 4: Create an AWS Lambda Function
@@ -218,9 +216,42 @@ def lambda_handler(event, context):
 
 Replace the `TopicArn` with your SNS topic ARN (we’ll create this in the next step).
 
-5.4.Deploy the Function:
+4.5.Deploy the Function:
 
 Click Deploy to save the function.
+
+
+## Step 5: Set Up Amazon SNS for Alerts
+
+5.1.Go to Amazon SNS:
+
+Search for "SNS" in the AWS Management Console.
+
+5.2.Create an SNS Topic:
+
+Click Create Topic.
+
+Name your topic (e.g., `SecurityAlerts`).
+
+Click Create Topic.
+
+5.3.Subscribe to the Topic:
+
+Select the topic and click Create Subscription.
+
+Choose Email as the protocol and enter your email address.
+
+Confirm the subscription by clicking the link in the confirmation email.
+
+5.4.Get the Topic ARN:
+
+Copy the ARN of the SNS topic (e.g., `arn:aws:sns:us-east-1:123456789012:SecurityAlerts`).
+
+Update the TopicArn in the Lambda function with this value.
+
+
+
+
 
 
 
