@@ -1,2 +1,3 @@
-# AI-Powered-Cloud-Security-Analyzr
+# AI-Powered-Cloud-Security-Analyzer
+
 "AI-Driven Threat Analysis"
