@@ -135,7 +135,7 @@ Name your function (e.g., SecurityAnalyzer).
 
 Select Python 3.x as the runtime.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Cloud-Security-Analyzer/blob/9e0439d0ec57672150de55da46828aac3664b689/img/Screenshot%202025-02-12%20151635.png)
 
 
 4.2.Add Permissions:
