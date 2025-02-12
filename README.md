@@ -80,7 +80,7 @@ Link GuardDuty to Security Hub:
 
 2.5.Security Hub will automatically ingest findings from GuardDuty. You can view these findings in the Findings tab.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Cloud-Security-Analyzer/blob/e2f08368181710fb9487bd4df7588a13cf11526a/img/Screenshot%202025-02-12%20144011.png)
 
 
 ## Step 3: Set Up Amazon Comprehend
