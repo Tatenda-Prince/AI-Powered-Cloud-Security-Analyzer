@@ -276,7 +276,17 @@ Go to the `CloudWatch Logs` for the Lambda function to see the execution logs.
 
 Verify that the function fetches findings from GuardDuty and Security Hub.
 
+
+Logs for GuardDuty
+
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Cloud-Security-Analyzer/blob/27a1325e1c66d9187b56928fe74d2ac0da9a787b/img/Screenshot%202025-02-12%20153249.png)
+
+
+Security Hub
+
 ![image_alt]()
+
+
 
 
 Check your email for the SNS alert.
