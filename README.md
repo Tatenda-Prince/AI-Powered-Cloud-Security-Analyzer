@@ -284,7 +284,7 @@ Logs for GuardDuty
 
 Security Hub
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Cloud-Security-Analyzer/blob/ea98c03e3f2acb99aef159822dd3e1e0e91bde2c/img/Screenshot%202025-02-12%20153305.png)
 
 
 
