@@ -302,7 +302,7 @@ We have successfully created a "AI Cloud Security Analyzer" This project helped 
 
 ## Future Enhancements
 
-To improve the system, we can integrate AWS Config for compliance monitoring, implement auto-remediation actions (e.g., blocking malicious IPs), and use Amazon OpenSearch for advanced security analytics
+To improve the system, we can integrate AWS Config for compliance monitoring, implement auto-remediation actions (e.g., blocking malicious IPs), and use Amazon OpenSearch for advanced security analytics.
 
 
 
