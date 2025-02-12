@@ -55,7 +55,7 @@ Wait for Findings:
 
 GuardDuty takes a few minutes to generate findings. You can check the Findings tab to see if any threats are detected.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/AI-Powered-Cloud-Security-Analyzer/blob/4ceb267092588c66e3997bdc4445f22f93026859/img/Screenshot%202025-02-12%20143710.png)
 
 
 ## Step 2: Set Up AWS Security Hub
